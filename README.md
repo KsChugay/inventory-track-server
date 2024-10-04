@@ -9,4 +9,4 @@
 
 [Диаграмма классов]()
 
-[ER diagram] (https://github.com/KsChugay/Diplom/blob/master/docs/ERD diagram.png)
+[ER diagram](https://github.com/KsChugay/Diplom/blob/master/docs/ERD-diagram.png)
