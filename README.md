@@ -9,4 +9,4 @@
 
 [Диаграмма классов]()
 
-[Диаграмма us-case]()
+[ER diagram] (https://github.com/KsChugay/Diplom/blob/master/docs/ERD diagram.png)
