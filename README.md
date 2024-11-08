@@ -11,6 +11,8 @@
 
 [ER diagram](https://github.com/KsChugay/Diplom/blob/master/docs/ERD-diagram.png)
 
-[User flow diagram_1](https://github.com/KsChugay/Diplom/blob/master/docs/User_flow_1.png), [User flow diagram_2](https://github.com/KsChugay/Diplom/blob/master/docs/User_flow_2.png), [User flow diagram_3](https://github.com/KsChugay/Diplom/blob/master/docs/User_flow_3.png)
+[User flow diagram_1](https://github.com/KsChugay/Diplom/blob/master/docs/User_flow_1.png), 
+[User flow diagram_2](https://github.com/KsChugay/Diplom/blob/master/docs/User_flow_2.png), 
+[User flow diagram_3](https://github.com/KsChugay/Diplom/blob/master/docs/User_flow_3.png)
 
 
