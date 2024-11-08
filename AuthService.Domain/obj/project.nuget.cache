@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+zZSHTum3UM/s0Z/+1lsi0/I1scCBeQTOp5kkpJeszfJo8Pr5CUTPGB1Q1Ukb5HdEcs8MjN6uSqTF09Eb29WRQ==",
+  "dgSpecHash": "SBdAPl9RgCQ=",
   "success": true,
-  "projectFilePath": "C:\\ASProggs\\InventoryTrack\\src\\Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj",
+  "projectFilePath": "D:\\KsDiplom\\src\\Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
