@@ -15,4 +15,10 @@
 [User flow diagram_2](https://github.com/KsChugay/Diplom/blob/master/docs/User_flow_2.png), 
 [User flow diagram_3](https://github.com/KsChugay/Diplom/blob/master/docs/User_flow_3.png)
 
+[Диаграмма последовательности](https://github.com/KsChugay/Diplom/blob/master/docs/D_posled.png)
+
+[Диаграмма развертывания](https://github.com/KsChugay/Diplom/blob/master/docs/D_rasvert.png)
+
+[Use case diagram](https://github.com/KsChugay/Diplom/blob/master/docs/Use_case.png)
+
 
