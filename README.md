@@ -21,4 +21,8 @@
 
 [Use case diagram](https://github.com/KsChugay/inventory-track-server/blob/main/docs/Use_case.png)
 
+[Документация](https://github.com/KsChugay/inventory-track-server/blob/main/docs/auth_swagger.json)
+
+[Оценка качества кода](https://github.com/KsChugay/inventory-track-server/blob/main/docs/Оценка_качества.jpg)
+
 
