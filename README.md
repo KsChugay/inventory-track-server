@@ -11,6 +11,7 @@
 [Диаграмма классов]()
 
 [ER diagram](https://github.com/KsChugay/Diplom/blob/master/docs/ERD-diagram.png)
+
 [Диаграмма последовательности](https://github.com/KsChugay/inventory-track-server/blob/main/docs/D_posled.png)
 
 [Диаграмма развертывания](https://github.com/KsChugay/inventory-track-server/blob/main/docs/D_rasvert.png)
