@@ -17,8 +17,8 @@
 
 [Use case diagram](https://github.com/KsChugay/inventory-track-server/blob/main/docs/Use_case.png)
 
-## Пользовательский интерфейс 
-### User flow диаграммы
+
+## User flow диаграммы
 [User flow diagram_1](https://github.com/KsChugay/Diplom/blob/master/docs/User_flow_1.png), 
 [User flow diagram_2](https://github.com/KsChugay/Diplom/blob/master/docs/User_flow_2.png), 
 [User flow diagram_3](https://github.com/KsChugay/Diplom/blob/master/docs/User_flow_3.png)
@@ -51,7 +51,7 @@
 
 3. **Постройте Docker-образ**:
    ```bash
-   docker build -t poputki-server .
+   docker build -t inventory-track-server .
    ```
 
 4. **Запустите контейнер с передачей параметров подключения к базе данных**:
