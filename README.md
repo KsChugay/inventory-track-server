@@ -27,10 +27,9 @@
 
 [Документация](https://github.com/KsChugay/inventory-track-server/blob/main/docs/auth_swagger.json)
 
-[Оценка качества кода](https://github.com/KsChugay/inventory-track-server/blob/main/docs/Оценка_качества.jpg)
 
 ## Tests
-
+[Оценка качества кода](https://github.com/KsChugay/inventory-track-server/blob/main/docs/Оценка_качества.jpg)
 [Test1](https://github.com/KsChugay/inventory-track-server/blob/main/docs/UserServiceTest.cs)
 [Test2](https://github.com/KsChugay/inventory-track-server/blob/main/docs/TokenServiceTest.cs)
 [Test3](https://github.com/KsChugay/inventory-track-server/blob/main/docs/AuthServiceTest.cs)
